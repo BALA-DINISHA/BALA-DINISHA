@@ -50,6 +50,10 @@ I’m an Information Technology undergraduate passionate about **software develo
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BALA-DINISHA&theme=radical)
 
 ---
+---
+## LeetCode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/baladinisha?ext=contest&theme=dark)](https://leetcode.com/baladinisha)
+---
 
 ## 🌱 Currently Focusing On
 
