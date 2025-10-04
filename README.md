@@ -69,11 +69,9 @@ I’m an Information Technology undergraduate passionate about **software develo
 ---
 
 ## 📫 Connect with Me
-
-* 📞 Phone: +91 89403 15878
 * 📧 Email: [baladinisha@gmail.com](mailto:baladinisha@gmail.com)
-* 🌐 [LinkedIn](https://www.linkedin.com/in/bala-dinisha) *(add your actual LinkedIn link)*
-* 💼 [Portfolio](https://your-portfolio.example) *(add your actual portfolio link)*
+* 🌐 [LinkedIn][(https://www.linkedin.com/in/bala-dinisha)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+* 💼 [Portfolio](https://your-portfolio.example) *(You will see in future)*
 
 ---
 
