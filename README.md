@@ -9,7 +9,7 @@ I’m an Information Technology undergraduate passionate about **software develo
 ## 💫 About Me
 
 * 🎓 Pursuing **B.Tech in Information Technology** at Dr. Sivanthi Aditanar College of Engineering (2022–2026)
-* 💡 Strong foundation in **C, Python, and Java**
+* 💡 Strong foundation in **C and Java**
 * 🌱 Currently exploring **App Development** and **AI/ML projects**
 
 ---
