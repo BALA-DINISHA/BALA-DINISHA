@@ -47,8 +47,7 @@ I’m an Information Technology undergraduate passionate about **software develo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baladinisha\&show_icons=true\&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baladinisha\&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BALA-DINISHA&theme=radical)
 
 ---
 
