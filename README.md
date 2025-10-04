@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi there 👋, I'm Bala Dinisha
 
-<!--
-**BALA-DINISHA/BALA-DINISHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I’m an Information Technology undergraduate passionate about **software development**, **problem-solving**, and **emerging technologies**. I love creating efficient, scalable, and user-friendly software while continuously learning and exploring new tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+
+* 🎓 Pursuing **B.Tech in Information Technology** at Dr. Sivanthi Aditanar College of Engineering (2022–2026)
+* 💡 Strong foundation in **C, Python, and Java**
+* 🌱 Currently exploring **App Development** and **AI/ML projects**
+
+---
+
+## 💻 Tech Stack
+
+**Programming Languages:** C | Java
+**Web Development:** HTML | CSS
+**Soft Skills:** Communication | Teamwork | Adaptability
+
+---
+
+## 🔥 Featured Projects
+
+* **Clone College ERP Website** — A cross-platform mini project built using **Flutter**.
+* **Smart Farmer Sale Direct to Customer App** — A mobile & web app that connects farmers directly to customers for real-time product ordering and delivery tracking. *(Tech Used: Flutter, FastAPI)*
+* **Pothole Detection using AI** — An AI-powered system that detects potholes using image processing and ML models to improve road safety. *(Tools: Roboflow, AI Models)*
+
+> Check out more projects in my repositories section!
+
+---
+
+## 🧠 Internships
+* **AI & ML Intern (Tessolve Semiconductors)** — Explored ML models and real-time applications, participated in concept-based projects.
+
+---
+
+## 📜 Certifications
+
+* Workshop: Artificial Intelligence & Machine Learning – Tessolve
+* Certification: Business Intelligence with Power BI – Skill Nation
+* Internship: UI/UX Design using Figma
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baladinisha\&show_icons=true\&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baladinisha\&theme=radical)
+
+---
+
+## 🌱 Currently Focusing On
+
+* Enhancing skills in **Full Stack Web Development**
+* Building projects in **AI & ML**
+* Improving **problem-solving** 
+* Strengthening fundamentals in **Operating Systems** & **DBMS**
+
+---
+
+## 🎨 Beyond Tech
+
+* Love playing **tennis** 🎾
+* Enjoy exploring new ideas and learning from basics 🌱
+
+---
+
+## 📫 Connect with Me
+
+* 📞 Phone: +91 89403 15878
+* 📧 Email: [baladinisha@gmail.com](mailto:baladinisha@gmail.com)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/bala-dinisha) *(add your actual LinkedIn link)*
+* 💼 [Portfolio](https://your-portfolio.example) *(add your actual portfolio link)*
+
+---
+
+
