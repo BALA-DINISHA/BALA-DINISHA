@@ -16,9 +16,9 @@ I’m an Information Technology undergraduate passionate about **software develo
 
 ## 💻 Tech Stack
 
-**Programming Languages:** C | Java
-**Web Development:** HTML | CSS
-**Soft Skills:** Communication | Teamwork | Adaptability
+**Programming Languages:** C | Java.
+**Web Development:** HTML | CSS.
+**Soft Skills:** Communication | Teamwork | Adaptability.
 
 ---
 
