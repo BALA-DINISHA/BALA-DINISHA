@@ -52,7 +52,8 @@ I’m an Information Technology undergraduate passionate about **software develo
 ---
 ---
 ## LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/baladinisha?ext=contest&theme=dark)](https://leetcode.com/baladinisha)
+
+<!--[![Leetcode Stats](https://leetcard.jacoblin.cool/baladinisha?ext=contest&theme=dark)](https://leetcode.com/baladinisha) -->
 ---
 
 ## 🌱 Currently Focusing On
