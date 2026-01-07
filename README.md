@@ -10,7 +10,7 @@ I’m an Information Technology undergraduate passionate about **Mobile App deve
 
 * 🎓 Pursuing **B.Tech in Information Technology** at Dr. Sivanthi Aditanar College of Engineering (2022–2026)
 * 💡 Strong foundation in **C and Java**
-* 🌱 Currently exploring **App Development** 
+* 🌱 Currently exploring **Mobile App Development** 
 
 ---
 
