@@ -2,7 +2,7 @@
 
 🚀 Aspiring Software Engineer | Tech Enthusiast
 
-I’m an Information Technology undergraduate passionate about **software development**, **problem-solving**, and **emerging technologies**. I love creating efficient, scalable, and user-friendly software while continuously learning and exploring new tools.
+I’m an Information Technology undergraduate passionate about **Mobile App development**, **problem-solving**, and **emerging technologies**. I love creating efficient, scalable, and user-friendly software while continuously learning and exploring new tools.
 
 ---
 
@@ -10,14 +10,13 @@ I’m an Information Technology undergraduate passionate about **software develo
 
 * 🎓 Pursuing **B.Tech in Information Technology** at Dr. Sivanthi Aditanar College of Engineering (2022–2026)
 * 💡 Strong foundation in **C and Java**
-* 🌱 Currently exploring **App Development** and **AI/ML projects**
+* 🌱 Currently exploring **App Development** 
 
 ---
 
 ## 💻 Tech Stack
 
 * **Programming Languages:** C | Java | Dart.
-* **Web Development:** HTML | CSS.
 * **Mobile App Development:** Flutter.
 * **Soft Skills:** Communication | Teamwork | Adaptability.
 
