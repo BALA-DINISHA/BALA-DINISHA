@@ -68,6 +68,7 @@ I’m an Information Technology undergraduate passionate about **Mobile App deve
 ## 🎨 Beyond Tech
 
 * Love playing **tennis** 🎾
+* Love coding
 * Enjoy exploring new ideas and learning from basics 🌱
 
 ---
