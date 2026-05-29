@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bala Dinisha
 
-🚀 Aspiring Mobile App Development | Tech Enthusiast
+🚀 Aspiring Full Stack Web Development | Tech Enthusiast
 
 I’m an Information Technology undergraduate passionate about **Mobile App development**, **problem-solving**, and **emerging technologies**. I love creating efficient, scalable, and user-friendly software while continuously learning and exploring new tools.
 
