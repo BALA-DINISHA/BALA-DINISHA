@@ -2,7 +2,7 @@
 
 🚀 Aspiring Full Stack Web Development | Tech Enthusiast
 
-I’m an Information Technology undergraduate passionate about **Mobile App development**, **problem-solving**, and **emerging technologies**. I love creating efficient, scalable, and user-friendly software while continuously learning and exploring new tools.
+I’m an Information Technology undergraduate passionate about **Full Stack Web Developmennt**, **problem-solving**, and **emerging technologies**. I love creating efficient, scalable, and user-friendly software while continuously learning and exploring new tools.
 
 ---
 
@@ -10,14 +10,14 @@ I’m an Information Technology undergraduate passionate about **Mobile App deve
 
 * 🎓 Pursuing **B.Tech in Information Technology** at Dr. Sivanthi Aditanar College of Engineering (2022–2026)
 * 💡 Strong foundation in **C and Java**
-* 🌱 Currently exploring **Mobile App Development** 
+* 🌱 Currently exploring **Full Stack Web Development** 
 
 ---
 
 ## 💻 Tech Stack
 
 * **Programming Languages:** C | Java | Dart.
-* **Mobile App Development:** Flutter.
+* **Web  Development:** HTML | CSS| JavaScript | Boostramp.
 * **Soft Skills:** Communication | Teamwork | Adaptability.
 
 ---
@@ -53,7 +53,7 @@ I’m an Information Technology undergraduate passionate about **Mobile App deve
 ---
 ## LeetCode Stats
 
-<!--[![Leetcode Stats](https://leetcard.jacoblin.cool/baladinisha?ext=contest&theme=dark)](https://leetcode.com/baladinisha) -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/baladinisha?ext=contest&theme=dark)](https://leetcode.com/baladinisha)
 ---
 
 ## 🌱 Currently Focusing On
@@ -67,7 +67,6 @@ I’m an Information Technology undergraduate passionate about **Mobile App deve
 
 ## 🎨 Beyond Tech
 
-* Love playing **tennis** 🎾
 * Love coding
 * Enjoy exploring new ideas and learning from basics 🌱
 
