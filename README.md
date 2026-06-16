@@ -1,82 +1,163 @@
 # Hi there 👋, I'm Bala Dinisha
 
-🚀 Aspiring Full Stack Web Development | Tech Enthusiast
+🚀 **Aspiring Full Stack Java Developer | Tech Enthusiast**
 
-I’m an Information Technology undergraduate passionate about **Full Stack Web Developmennt**, **problem-solving**, and **emerging technologies**. I love creating efficient, scalable, and user-friendly software while continuously learning and exploring new tools.
+I'm an Information Technology graduate passionate about **Full Stack Web Development using Java**, **problem-solving**, and **emerging technologies**. I enjoy building scalable and user-friendly applications while continuously learning new technologies.
 
 ---
 
 ## 💫 About Me
 
-* 🎓 Pursuing **B.Tech in Information Technology** at Dr. Sivanthi Aditanar College of Engineering (2022–2026)
-* 💡 Strong foundation in **C and Java**
-* 🌱 Currently exploring **Full Stack Web Development** 
+* 🎓 B.Tech in Information Technology – Dr. Sivanthi Aditanar College of Engineering (2022–2026)
+* 💡 Strong foundation in C and Java
+* 🌱 Currently learning Full Stack Web Development using Java
+* 🚀 Building web applications using JSP, Servlet, JDBC, MySQL, Tomcat, and Spring Boot
+* 💻 Improving Data Structures and Algorithms (DSA) skills
 
 ---
 
 ## 💻 Tech Stack
 
-* **Programming Languages:** C | Java | Dart.
-* **Web  Development:** HTML | CSS| JavaScript | Boostramp.
-* **Soft Skills:** Communication | Teamwork | Adaptability.
+### Programming Languages
+
+* C
+* Java
+* Dart
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+### Backend
+
+* JSP
+* Servlets
+* JDBC
+* Spring Boot
+* REST APIs
+
+### Database
+
+* MySQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Apache Tomcat
+* Flutter
+* FastAPI
+* Figma
 
 ---
 
 ## 🔥 Featured Projects
 
-* **Clone College ERP Website** — A cross-platform mini project built using **Flutter**.
-* **Smart Farmer Sale Direct to Customer App** — A mobile & web app that connects farmers directly to customers for real-time product ordering and delivery tracking. *(Tech Used: Flutter, FastAPI)*
-* **Pothole Detection using AI** — An AI-powered system that detects potholes using image processing and ML models to improve road safety. *(Tools: Roboflow, AI Models)*
+### 🎓 Student Management System
 
-> Check out more projects in my repositories section!
+A CRUD-based web application developed using JSP, Servlet, JDBC, and MySQL for managing student records.
+
+**Features**
+
+* Add Student
+* View Student Details
+* Update Student Information
+* Delete Student Records
+* Database Connectivity using JDBC
+
+**Tech Stack:** JSP, Servlet, JDBC, MySQL, Apache Tomcat
 
 ---
 
-## 🧠 Internships
-* **AI & ML Intern (Tessolve Semiconductors)** — Explored ML models and real-time applications, participated in concept-based projects.
+### 🌾 Smart Farmer-to-Customer Sales App
+
+A mobile and web application that connects farmers directly with customers for real-time product ordering and delivery tracking.
+
+**Tech Stack:** Flutter, FastAPI
+
+---
+
+### 🛣️ Pothole Detection Using AI
+
+An AI-powered system that detects potholes using image processing and machine learning techniques to improve road safety.
+
+**Tools:** Roboflow, Machine Learning Models
+
+---
+
+### 📅 Doctor Appointment Booking Website
+
+A responsive web application for booking doctor appointments and managing patient registrations.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+## 🧠 Internship Experience
+
+### AI & ML Intern | Tessolve Semiconductors
+
+* Explored Machine Learning concepts and real-world applications.
+* Worked on AI-based projects and problem-solving activities.
+* Gained practical exposure to machine learning workflows.
 
 ---
 
 ## 📜 Certifications
 
-* Workshop: Artificial Intelligence & Machine Learning – Tessolve
-* Certification: Business Intelligence with Power BI – Skill Nation
-* Internship: UI/UX Design using Figma
+* Artificial Intelligence & Machine Learning Workshop – Tessolve
+* Business Intelligence with Power BI – Skill Nation
+* UI/UX Design Using Figma
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BALA-DINISHA&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BALA-DINISHA&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BALA-DINISHA\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BALA-DINISHA\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALA-DINISHA\&layout=compact\&theme=radical)
 
 ---
----
-## LeetCode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/baladinisha?ext=contest&theme=dark)](https://leetcode.com/baladinisha)
+## 🏆 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/baladinisha?theme=dark\&font=Karma\&ext=contest)](https://leetcode.com/baladinisha)
+
 ---
 
 ## 🌱 Currently Focusing On
 
-* Enhancing skills in **Full Stack Web Development**
-* Building projects in **AI & ML**
-* Improving **problem-solving** 
-* Strengthening fundamentals in **Operating Systems** & **DBMS**
+* Full Stack Web Development using Java
+* Spring Boot & REST APIs
+* Data Structures and Algorithms (DSA)
+* Database Management Systems (DBMS)
+* Operating Systems
+* Computer Networks
 
 ---
 
-## 🎨 Beyond Tech
+## 🎯 Goals
 
-* Love coding
-* Enjoy exploring new ideas and learning from basics 🌱
+* Solve 300+ LeetCode Problems
+* Build Real-World Full Stack Java Projects
+* Master Spring Boot and REST APIs
+* Contribute to Open Source Projects
+* Become a Software Engineer
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
+
 * 📧 Email: [baladinisha@gmail.com](mailto:baladinisha@gmail.com)
-* 🌐 [LinkedIn][(https://www.linkedin.com/in/bala-dinisha)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-* 💼 [Portfolio](https://your-portfolio.example) 
+* 💼 LinkedIn: https://www.linkedin.com/in/bala-dinisha
+* 💻 GitHub: https://github.com/BALA-DINISHA
+* 🏆 LeetCode: https://leetcode.com/baladinisha
 
 ---
 
-
+⭐ Feel free to explore my repositories and connect with me. I'm always eager to learn, collaborate, and grow as a developer!
