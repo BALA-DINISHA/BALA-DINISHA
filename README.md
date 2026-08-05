@@ -2,6 +2,7 @@
 
 🚀 **Aspiring Full Stack Java Developer | Tech Enthusiast**
 
+
 I'm an Information Technology graduate passionate about **Full Stack Web Development using Java**, **problem-solving**, and **emerging technologies**. I enjoy building scalable and user-friendly applications while continuously learning new technologies.
 
 ---
