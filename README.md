@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bala Dinisha
+# Hello there 👋, I'm Bala Dinisha
 
 🚀 ** Aspiring Full Stack Java Developer | Tech Enthusiast **
 
